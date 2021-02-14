@@ -60,7 +60,7 @@ motivation('Mohamed', 'Ali'); // 'You're doing awesome keep it up Mohamed Ali.
  Task 3: Find Your Friends
  \******************************************************************************/
 
-/****** INSTRUCTIONS PROBLEM 7 ******/
+/****** INSTRUCTIONS PROBLEM 3 ******/
 /* Here we are given three arrays: an array of friends, an array of second-level
 friends (friends of friends), and an array of all users. These arrays may share
 users. Write a function that takes in our existing friends and returns
@@ -83,7 +83,7 @@ var isNotAFriend = findPotentialFriends( friends );
 	Task 4: Keep a log
 \******************************************************************************/
 
-/****** INSTRUCTIONS PROBLEM 8 ******/
+/****** INSTRUCTIONS PROBLEM 4 ******/
 /* Here we have a for loop that will iterate as long as i is less than or equal
 to 5. What we need to do is console.log(i) so that it logs like so:
  0 second after call - log 0
