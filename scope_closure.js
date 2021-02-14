@@ -108,6 +108,18 @@ function timeOutCounter() {
 timeOutCounter();
 
 
+/******************************************************************************\
+	Task 5: Check if name exists
+\******************************************************************************/
+
+/****** INSTRUCTIONS PROBLEM 5 ******/
+/*
+  Write a function called contains that takes in three parameters: an array, a name and a callback.  
+  Check if the name exists in the array. 
+  If it does, invoke the callback with true as the argument. 
+  If the name does not exist, invoke the callback with false as the argument.
+*/
+
 
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
